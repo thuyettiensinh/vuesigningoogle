@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "parse-server": "^2.5.3"
+    "parse-server": "^4.5.0"
   }
 }
